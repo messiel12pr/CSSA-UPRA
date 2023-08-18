@@ -18,6 +18,8 @@
 - GitLab
   - What's the difference between GitHub and GitLab?
 - What is a Repo?
+- What is Open Source Software?
+- How can I contribute to Open Source Software
 
 <h4>Practical examples:</h4>
 
