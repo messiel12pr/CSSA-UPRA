@@ -23,6 +23,8 @@ Kevin
 - What is Open Source Software?
 - How can I contribute to Open Source Software
 
+- VS Code
+  
 <h4>Practical examples:</h4>
 Joel
 <br>
