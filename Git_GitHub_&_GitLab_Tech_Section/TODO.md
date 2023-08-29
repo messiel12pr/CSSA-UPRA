@@ -12,14 +12,14 @@ Joel
     - Examples: Gitflow, Feature Branches, Pull Request Workflow, etc...
      
 Kevin
-- GitHub
-  - What is GitHub?
-  - Why should I create a Github account?
-  - How is Git and Github related?
+- GitHub ✓
+  - What is GitHub? ✓
+  - Why should I create a Github account? ✓
+  - How is Git and Github related? ✓
 
 - GitLab
-  - What's the difference between GitHub and GitLab?
-- What is a Repo?
+  - What's the difference between GitHub and GitLab? ✓
+- What is a Repo? ✓
 - What is Open Source Software?
 - How can I contribute to Open Source Software
 
