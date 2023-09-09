@@ -15,3 +15,10 @@
 
 - [How to Push Code to Github](https://youtu.be/wrb7Gge9yoE?si=VxCrjHKLyiH9SfiK)
 
+
+<h3>Visual Studio Code</h3>
+
+- [Visual Studio Code download & useful extensions](https://youtu.be/shTHhp3QeP4?si=HjYhSkwdxdDuYmR0)
+
+- [How to set up Github ins Visual Studio Code](https://youtu.be/mR9jhYD3bnI?si=n2HEr1MNzxlpAX0n)
+
