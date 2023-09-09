@@ -20,5 +20,5 @@
 
 - [Visual Studio Code download & useful extensions](https://youtu.be/shTHhp3QeP4?si=HjYhSkwdxdDuYmR0)
 
-- [How to set up Github ins Visual Studio Code](https://youtu.be/mR9jhYD3bnI?si=n2HEr1MNzxlpAX0n)
+- [How to set up Github in Visual Studio Code](https://youtu.be/mR9jhYD3bnI?si=n2HEr1MNzxlpAX0n)
 
