@@ -2,7 +2,7 @@
 
 - Create a local repo
 - Create a remote repo in GitHub
-- Get Key from github
+- Get Personal access token from GitHub
 - Connect local repo to remote repo
 - Create file
 - Add code to file
@@ -22,7 +22,8 @@
 
 <h3>Create a local repo</h3>
 
-- In your terminal type the following command:
+- Create a folder 
+- In your terminal type the following command (make sure you are inside the folder you created):
   - `git init`
 - Now configure your user details (use the same email as the one you use for GitHub)
   - `git config --global user.name "REPLACE-WITH-YOUR-NAME"`
@@ -42,4 +43,33 @@
 - Now copy and save into a text file the following commands at the bottom of the page. It should look similar to this:
   - ![image](https://github.com/messiel12pr/CSSA-UPRA/assets/95717805/a2054bdf-1fef-4cb9-9cb1-c7ef3327a82a)
  
+<h3>Get Personal access token from GitHub</h3>
 
+- In the top-right corner click your profile icon
+- Click:
+  - ![image](https://github.com/messiel12pr/CSSA-UPRA/assets/95717805/ef0f8d31-98df-468e-90ed-85c1fd796ed8)
+- In the menu bar to your left click:
+  - ![image](https://github.com/messiel12pr/CSSA-UPRA/assets/95717805/aab20928-08e3-4903-bf44-f923c788cb86)
+- In Personal access tokens click Tokens (classic):
+  - ![image](https://github.com/messiel12pr/CSSA-UPRA/assets/95717805/e53a6d3b-11a8-4cda-a283-7113644e7d96)
+- In Generate new token click Generate new token (classic):
+  - ![image](https://github.com/messiel12pr/CSSA-UPRA/assets/95717805/3d270ebb-bd77-42a6-97d0-e7bcb4d5a0a4)
+- Now add a note and check the repo box:
+  - ![image](https://github.com/messiel12pr/CSSA-UPRA/assets/95717805/ff543324-f838-436b-9d98-e1fdef75fe1a)
+- Click:
+  - ![image](https://github.com/messiel12pr/CSSA-UPRA/assets/95717805/25c0580c-90b6-4b89-9041-222c948d8b95)
+- Copy the token and save it in a text file. Do not share this with anyone.
+
+<h3>Connect local repo to remote repo</h3>   
+
+- Create a file named README.md
+- Add this to your README.md file:
+  - `<h1>Hello World, this is my repo :wave:</h1>`
+  - `<p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/messiel12pr/count.svg" /> </p>`
+- Copy the commands you saved when you created your remote repo in GitHub
+- Paste these commands in your terminal:
+  -  ![image](https://github.com/messiel12pr/CSSA-UPRA/assets/95717805/f36ef6d6-959c-4381-8964-52239c37db18)
+
+<p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/messiel12pr/count.svg" /> </p>
+
+ 
