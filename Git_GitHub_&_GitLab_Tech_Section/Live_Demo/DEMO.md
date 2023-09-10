@@ -4,10 +4,6 @@
 - Create a remote repo in GitHub
 - Get Personal access token from GitHub
 - Connect local repo to remote repo
-- Create file
-- Add code to file
-- Save and commit code
-- Push file to remote
 
 <h3>Prerequisites</h3>
 
@@ -63,13 +59,28 @@
 <h3>Connect local repo to remote repo</h3>   
 
 - Create a file named README.md
-- Add this to your README.md file:
-  - `<h1>Hello World, this is my repo :wave:</h1>`
-  - `<p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/messiel12pr/count.svg" /> </p>`
+- Add this to your README.md file and save it:
+  
+```
+<!---
+Visitor counter code provided by: https://github.com/sagar-viradiya.
+Make sure to use your username bellow
+-->
+
+<h1 align="center">Hello World, this is my repo :wave:</h1>
+<p align="center">Visitor count<br>
+<img src="https://profile-counter.glitch.me/REPLACE-WITH-YOUR-USERNAME/count.svg" />
+</p>
+```
+- Run the add command in order to stage our changes:
+  - `git add README.md`
+- Run the commit command in order to commit our changes to our git history:
+  - `git commit -m "First commit" README.md`  
 - Copy the commands you saved when you created your remote repo in GitHub
 - Paste these commands in your terminal:
   -  ![image](https://github.com/messiel12pr/CSSA-UPRA/assets/95717805/f36ef6d6-959c-4381-8964-52239c37db18)
+- When prompted for a username provide your GitHub username
+- When prompted for a password provide the Personal access token we generated earlier
 
-<p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/messiel12pr/count.svg" /> </p>
 
  
