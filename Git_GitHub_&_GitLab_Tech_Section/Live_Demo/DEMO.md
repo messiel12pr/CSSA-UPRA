@@ -24,6 +24,8 @@
 - Now configure your user details (use the same email as the one you use for GitHub)
   - `git config --global user.name "REPLACE-WITH-YOUR-NAME"`
   - `git config --global user.email replace-with-your-email@upr.edu`
+
+<br>
  
 <h3>Create a remote repo in GitHub</h3>
 
@@ -38,6 +40,8 @@
   - ![image](https://github.com/messiel12pr/CSSA-UPRA/assets/95717805/982bd1f7-6144-4b2c-99b5-21d4634db94a)
 - Now copy and save into a text file the following commands at the bottom of the page. It should look similar to this:
   - ![image](https://github.com/messiel12pr/CSSA-UPRA/assets/95717805/a2054bdf-1fef-4cb9-9cb1-c7ef3327a82a)
+
+<br>
  
 <h3>Get Personal access token from GitHub</h3>
 
@@ -55,6 +59,8 @@
 - Click:
   - ![image](https://github.com/messiel12pr/CSSA-UPRA/assets/95717805/25c0580c-90b6-4b89-9041-222c948d8b95)
 - Copy the token and save it in a text file. Do not share this with anyone.
+
+<br>
 
 <h3>Connect local repo to remote repo</h3>   
 
@@ -81,6 +87,3 @@ Make sure to use your username bellow
   -  ![image](https://github.com/messiel12pr/CSSA-UPRA/assets/95717805/f36ef6d6-959c-4381-8964-52239c37db18)
 - When prompted for a username provide your GitHub username
 - When prompted for a password provide the Personal access token we generated earlier
-
-
- 
