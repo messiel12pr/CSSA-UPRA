@@ -22,3 +22,6 @@
 
 - [How to setup Github in Visual Studio Code](https://youtu.be/mR9jhYD3bnI?si=n2HEr1MNzxlpAX0n)
 
+<h3>GitHub Tutorial</h3>
+
+- [Why a portfolio is important?](https://youtu.be/ncpG-9jKBEo?si=EQMmBzZVBewg5Vhw)
